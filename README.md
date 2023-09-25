@@ -9,6 +9,8 @@ When you use Gatsby, and at any point in the app use asynchronous Recoil state,
 the app will fail to build, and simply get stuck on "Building static HTML for
 pages".
 
+![Recording of the issue](./terminal.svg)
+
 ## Steps to reproduce
 
 1. Clone this repo
